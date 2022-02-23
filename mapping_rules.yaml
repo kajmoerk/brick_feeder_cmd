@@ -1,0 +1,13 @@
+# This file defines mappings between ROS 1 and ROS 2 interfaces.
+# It is used with the ros1_bridge to allow for communcation between ROS 1 and ROS 2.
+
+-
+  ros1_package_name: 'brick_feeder_cmd'
+  ros1_service_name: 'BrickFeeder'
+  ros2_package_name: 'brick_feeder_cmd'
+  ros2_service_name: 'BrickFeeder'
+-
+  ros1_package_name: 'brick_feeder_cmd'
+  ros1_service_name: 'BrickFeeder'
+  ros2_package_name: 'brick_feeder_cmd'
+  ros2_service_name: 'BrickFeeder'

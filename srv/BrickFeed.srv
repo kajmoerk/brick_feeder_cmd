@@ -1,0 +1,3 @@
+int64 brickcount
+---
+boolean goal_complete

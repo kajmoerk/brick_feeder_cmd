@@ -1,0 +1,9 @@
+# Goal
+int64 brickorder
+---
+# Result
+boolean result
+---
+# Feedback
+int64 brick_disp
+boolean failed
